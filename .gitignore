@@ -1,4 +1,3 @@
 /target
 /.idea
-/pe_accounts_db
-/pe_transaction_db
+/pe_transaction.db
